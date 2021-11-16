@@ -11,6 +11,13 @@
 
 ---
 
+## Children
+
+- [**+ node, reverse-proxy**](https://github.com/softspiders/nginx-revproxy_node_docker-compose)
+- [**+ php, reverse-proxy**](https://github.com/softspiders/nginx-revproxy_php_docker-compose)
+
+---
+
 ## Author
 
 [Alexander Lapygin](https://github.com/AlexanderLapygin) <<alexanderlapygin@gmail.com>>
